@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zawagalnaddy10-png.github.io/clean/sitemap.xml
